@@ -15,22 +15,23 @@ checkForUpdates: true
 
 # This section allows you to modify the default fallback presence or default startup presence
 
-defaultClientID: "389249289223929856"
-defaultDetails: "LogRPC v1.9"
-defaultState: "Coded in Java and JavaScript"
-defaultLargeImageKey: "https://i.imgur.com/HApEahS.gif"
-defaultLargeImageText: "LogRPC v1.9"
+defaultClientID: "1138829228067008522"
+defaultDetails: "나 그렇게 네게 기대를 걸어"
+defaultState: "slow replies ++ busy"
+defaultLargeImageKey: "https://64.media.tumblr.com/b9c2274d69c3e5a3fbd25321d95ca118/56debc727c8ec3db-2e/s250x400/3e39c449d0da1059a95fa85babfaa3e663b8e98c.gifv
+"
+defaultLargeImageText: "boyf ♡"
 defaultSmallImageKey: "null"
 defaultSmallImageText: "null"
 
 # Use -1 for no timestamp. Use 0 for current timestamp.
-defaultStartTimestamp: -1
+defaultStartTimestamp: 0
 defaultEndTimestamp: -1
 
-defaultMainButtonText: "Download my Work"
-defaultMainButtonURL: "https://logicism.tv/downloads/"
-defaultSecondaryButtonText: "Buy a Gaming/Anime Banner"
-defaultSecondaryButtonURL: "https://www.fiverr.com/logicism/design-a-youtube-or-twitch-banner-and-logo-made-for-gamers"
+defaultMainButtonText: "wave to earth"
+defaultMainButtonURL: "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+defaultSecondaryButtonText: "carrd"
+defaultSecondaryButtonURL: "https://wnwooss.carrd.co/"
 
 defaultPartySize: 0
 defaultMaxPartySize: 0
